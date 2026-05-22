@@ -2,10 +2,10 @@
 set -e
 
 # Tauri Dev Plugin Installer
-# Usage: curl -fsSL https://raw.githubusercontent.com/YOUR_USER/tauri-dev-plugin/main/scripts/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/GodSpoon/tauri-dev-plugin/main/scripts/install.sh | bash
 
 PLUGIN_NAME="tauri-dev-plugin"
-PLUGIN_REPO="${TAURI_DEV_PLUGIN_REPO:-https://github.com/YOUR_USER/tauri-dev-plugin.git}"
+PLUGIN_REPO="${TAURI_DEV_PLUGIN_REPO:-https://github.com/GodSpoon/tauri-dev-plugin.git}"
 CLAUDE_PLUGINS_DIR="${HOME}/.claude/plugins"
 INSTALL_DIR="${CLAUDE_PLUGINS_DIR}/${PLUGIN_NAME}"
 

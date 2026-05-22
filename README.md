@@ -7,13 +7,13 @@ Complete Tauri v2 development toolkit for Claude Code. Provides skills, commands
 ### One-Line Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USER/tauri-dev-plugin/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/GodSpoon/tauri-dev-plugin/main/scripts/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone --recursive https://github.com/YOUR_USER/tauri-dev-plugin.git ~/.claude/plugins/tauri-dev-plugin
+git clone --recursive https://github.com/GodSpoon/tauri-dev-plugin.git ~/.claude/plugins/tauri-dev-plugin
 cd ~/.claude/plugins/tauri-dev-plugin
 git submodule update --init --depth 1
 ```
