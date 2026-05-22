@@ -1,0 +1,12 @@
+[submodule "vendor/tauri-template"]
+	path = vendor/tauri-template
+	url = https://github.com/dannysmith/tauri-template.git
+[submodule "vendor/tauri-svelte-template"]
+	path = vendor/tauri-svelte-template
+	url = https://github.com/alysonhower/tauri2-svelte5-shadcn.git
+[submodule "vendor/awesome-tauri"]
+	path = vendor/awesome-tauri
+	url = https://github.com/tauri-apps/awesome-tauri.git
+[submodule "vendor/plugins-workspace"]
+	path = vendor/plugins-workspace
+	url = https://github.com/tauri-apps/plugins-workspace.git

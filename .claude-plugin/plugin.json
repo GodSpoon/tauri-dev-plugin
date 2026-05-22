@@ -1,0 +1,13 @@
+{
+  "name": "tauri-dev-plugin",
+  "version": "1.0.0",
+  "description": "Complete Tauri v2 development toolkit for Claude Code. Provides skills, commands, and agents for scaffolding, developing, debugging, and shipping Tauri desktop applications.",
+  "author": {
+    "name": "Tauri Agent Dev",
+    "url": "https://github.com/yourusername/tauri-dev-plugin"
+  },
+  "homepage": "https://github.com/yourusername/tauri-dev-plugin",
+  "repository": "https://github.com/yourusername/tauri-dev-plugin.git",
+  "license": "MIT",
+  "keywords": ["tauri", "tauri-v2", "desktop", "rust", "electron-alternative", "devtools"]
+}
