@@ -4,13 +4,21 @@ Complete Tauri v2 development toolkit for Claude Code. Provides skills, commands
 
 ## Quick Start
 
-### One-Line Install
+### For AI Agents (Copy & Paste This)
+
+Paste this into your agent to install the complete Tauri v2 toolkit:
+
+```
+Clone https://github.com/GodSpoon/tauri-dev-plugin.git into your workspace, then run `git submodule update --init --depth 1` to fetch the bundled templates. Load the skill from `skills/tauri-agent-dev/SKILL.md` and the reference docs under `skills/tauri-agent-dev/references/` (tools.md, templates.md, tauri-core.md). The bundled project templates live in `vendor/` — use `vendor/tauri-template/` for production React apps, `vendor/tauri-svelte-template/` for Svelte apps, `vendor/plugins-workspace/` for official plugin source/examples, and `vendor/awesome-tauri/` for community resources.
+```
+
+### One-Line Install (Claude Code)
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/GodSpoon/tauri-dev-plugin/main/scripts/install.sh | bash
 ```
 
-### Manual Install
+### Manual Install (Claude Code)
 
 ```bash
 git clone --recursive https://github.com/GodSpoon/tauri-dev-plugin.git ~/.claude/plugins/tauri-dev-plugin
